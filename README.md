@@ -1,6 +1,6 @@
 # Mister Seven
 
-![Mister Seven](Display_Img.jpg)
+![Mister Seven](Display_Img.png)
 
 More information and additional images:  
 https://obuqdesign.wordpress.com/2023/06/24/mister-seven/
